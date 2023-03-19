@@ -24,11 +24,17 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Table of Contents
 -[Description](description)
+
 -[User Story](#user-story)
+
 -[Acceptance Criteria](#acceptance-criteria)
+
 -[Installation](#installation)
+
 -[Demo](#demo)
+
 -[License](#license)
+
 -[Contributors/Credits](#contributors/credits)
 
 ## Installation
