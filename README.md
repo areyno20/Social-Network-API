@@ -64,6 +64,9 @@ This app was created by Aidan Reynolds
 Github: https://github.com/areyno20
 
 References for this project include:
+
 [MongoDB Reference](https://www.mongodb.com/docs/manual/reference/connection-string/)
+
 [Insomnia Documentation](https://docs.insomnia.rest/insomnia/get-started)
+
 UofTSCS Coding Materials
