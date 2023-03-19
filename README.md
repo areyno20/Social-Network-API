@@ -24,11 +24,17 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Table of Contents
 -[Description](description)
+
 -[User Story](#user-story)
+
 -[Acceptance Criteria](#acceptance-criteria)
+
 -[Installation](#installation)
+
 -[Demo](#demo)
+
 -[License](#license)
+
 -[Contributors/Credits](#contributors/credits)
 
 ## Installation
@@ -64,6 +70,9 @@ This app was created by Aidan Reynolds
 Github: https://github.com/areyno20
 
 References for this project include:
+
 [MongoDB Reference](https://www.mongodb.com/docs/manual/reference/connection-string/)
+
 [Insomnia Documentation](https://docs.insomnia.rest/insomnia/get-started)
+
 UofTSCS Coding Materials
