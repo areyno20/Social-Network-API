@@ -1,0 +1,29 @@
+{
+    "name": "social-network-api",
+    "version": "1.0.0",
+    "description": "Social Network API",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+"
+
+    },
+    "keywords": [
+      "social network",
+      "api",
+      "mongodb",
+      "mongoose",
+      "express"
+    ],
+    "author": "Aidan Reynolds",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "moment": "^2.29.3",
+      "mongoose": "^5.11.15"
+    }
+
+}
