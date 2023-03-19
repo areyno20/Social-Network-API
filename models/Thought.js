@@ -2,7 +2,7 @@ const {Schema , model, Types} = require('mongoose');
 const moment = require('moment');
 const mongoose = require('mongoose');
 
-const ReactionSchema = new Schema (
+const reactionSchema = new Schema (
     {
         reactionId: {
             type: Types.ObjectId,
@@ -47,7 +47,7 @@ const thoughtSchema = new Schema(
             type: String,
             required: true
         },
-        reactions: [ReactionSchema]
+        reactions: [reactionSchema]
     },
     {
         toJSON: {
